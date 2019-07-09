@@ -1,0 +1,44 @@
+h1 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 100px;
+}
+
+.subheadline {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.headshot {
+    border-radius: 50%;
+    height: 600px;
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flag {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+
+
+ .carrot {
+    list-style-image: url(32361-carrot-icon.png);
+    margin: 5px;
+} 
+
+.subheadline--carrotTop {
+    text-align: center;
+}

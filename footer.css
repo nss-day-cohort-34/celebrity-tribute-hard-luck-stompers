@@ -1,0 +1,17 @@
+.socialMedia--link {
+    list-style-type: none;
+    display: inline;
+    margin: 30px 20px;
+    padding: 0;
+    font-size: 30px;
+}
+
+.socialMedia {
+    display: flex;
+    justify-content: center;
+}
+
+.fa {
+    color: white;
+    text-decoration: none;
+}

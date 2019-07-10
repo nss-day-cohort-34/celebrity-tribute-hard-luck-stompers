@@ -13,7 +13,7 @@ h1 { /* change h1 color, font and postion */
 .headshot { /* manipulate the photo to a circle and proper size */
     border-radius: 50%;
     height: 600px;
-    width: 450px;
+    width: 600px;
     display: block;
     margin-left: auto;
     margin-right: auto;

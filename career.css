@@ -1,0 +1,63 @@
+h1 {
+    color: white;
+    font-family: 'Roboto';
+    margin-left: 100px;
+}
+
+article {
+    color: white;
+    font-family: 'Roboto';
+    size: 2em;
+}
+
+.introPhoto {
+    border-radius: 10px;
+    height: 420px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intro {
+    text-align: center;
+    padding: 30px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    size: 2em;
+}
+
+.career {
+    text-align: center;
+    text-decoration: underline;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.career__notableWorks {
+    text-align: center;
+}
+
+.notableWorks {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+    
+}
+
+.notableWorks__img {
+    border-radius: 8px;
+    height: 450px;
+    width: 450px;
+}
+
+figcaption {
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Roboto';
+    text-align: center;
+}

@@ -14,10 +14,9 @@
     justify-content: space-around;
     font-family: 'Roboto', sans-serif;
     font-size: larger;
-    a:active: orange;
-    
-    
+        
 }
+
 
 .navBar {
   display: flex;    

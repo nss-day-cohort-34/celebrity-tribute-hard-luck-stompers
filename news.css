@@ -1,0 +1,27 @@
+.news--picture {
+    width: 200px;
+}
+.news {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.news--article {
+    display: flex;
+    
+}
+.news--content {
+    display: flex;
+    flex-flow: column;
+    margin-left: 20px;
+}
+.button--tickets {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 12px;
+}

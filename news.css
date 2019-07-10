@@ -5,6 +5,10 @@
     color: white;
     font-family: 'Roboto', sans-serif;
 }
+.news-heading{
+    margin-left: 100px;
+}
+
 .news--article {
     display: flex;
     

@@ -14,9 +14,9 @@
     justify-content: space-around;
     font-family: 'Roboto', sans-serif;
     font-size: larger;
-    
-    
+        
 }
+
 
 .navBar {
   display: flex;    
@@ -31,4 +31,8 @@ body {
 .navBar--link a {
     text-decoration: none;
     color: white;
+}
+
+.active a {
+    color: #E67E22;
 }

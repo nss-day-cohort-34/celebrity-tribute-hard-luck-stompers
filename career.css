@@ -63,3 +63,8 @@ figcaption {
     font-family: 'Roboto';
     text-align: center;
 }
+
+.carrot {
+    list-style-image: url(32361-carrot-icon.png);
+    margin: 5px;
+}

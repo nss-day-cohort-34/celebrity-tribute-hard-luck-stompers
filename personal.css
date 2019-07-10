@@ -1,3 +1,4 @@
+/* styling for the entire body of page */
 body {
     color: white;
     font-family: 'Roboto', sans-serif;
@@ -5,10 +6,12 @@ body {
     text-align: center;
 }
 
+/* removes bullets from list with birthday, birth location, and current city */
 .birth__list {
     list-style-type: none;
 }
 
+/* styling for family section with css flex */
 .family {
     align-content: center;
     display: flex;
@@ -19,12 +22,14 @@ body {
     vertical-align: top;
 }
 
+/* img styling for family section */
 .fampic {
     border-radius: 15%;
     width: 250px;
     height: 250px;
 }
 
+/* styling for hypothetical family section */
 .hypotheticalFamily {
     align-content: center;
     display: flex;
@@ -35,6 +40,7 @@ body {
     vertical-align: top;
 }
 
+/* img styling for hypothetical family section */
 .hypoFampic {
     border-radius: 15%;
     width: 250px;

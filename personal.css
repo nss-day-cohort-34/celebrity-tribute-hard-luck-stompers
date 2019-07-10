@@ -6,6 +6,11 @@ body {
     text-align: center;
 }
 
+.personalheading {
+    text-align: left;
+    margin-left: 100px;
+}
+
 /* removes bullets from list with birthday, birth location, and current city */
 .birth__list {
     list-style-type: none;

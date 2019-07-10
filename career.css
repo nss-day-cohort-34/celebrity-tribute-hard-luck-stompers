@@ -1,12 +1,12 @@
 h1 {
     color: white;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     margin-left: 100px;
 }
 
 article {
     color: white;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     size: 2em;
 }
 
@@ -39,6 +39,8 @@ article {
 
 .career__notableWorks {
     text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
 }
 
 .notableWorks {

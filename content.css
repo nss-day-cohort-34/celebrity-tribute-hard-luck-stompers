@@ -1,16 +1,16 @@
-h1 {
+h1 { /* change h1 color, font and postion */
     color: white;
     font-family: 'Roboto', sans-serif;
     margin-left: 100px;
 }
 
-.subheadline {
+.subheadline { /* change all h2s white with mathcing font */
     color: white;
     font-family: 'Roboto', sans-serif;
 
 }
 
-.headshot {
+.headshot { /* manipulate the photo to a circle and proper size */
     border-radius: 50%;
     height: 600px;
     width: 450px;
@@ -19,26 +19,26 @@ h1 {
     margin-right: auto;
 }
 
-.flag {
+.flag { /* manipulate the flag image to a circle and the proper size */
     border-radius: 50%;
     height: 100px;
     width: 100px;
     margin-left: 50px;
 }
 
-.container{
+.container{ /* container to manipulate the flexbox */
     display: flex;
     justify-content: space-around;
-    margin: 10px;
+    margin: 10px 0 0 110px;
 }
 
 
 
- .carrot {
+ .carrot { /* changes the bullets to carrots */
     list-style-image: url(32361-carrot-icon.png);
     margin: 5px;
 } 
 
-.subheadline--carrotTop {
+.subheadline--carrotTop { /* center carrot top */
     text-align: center;
 }

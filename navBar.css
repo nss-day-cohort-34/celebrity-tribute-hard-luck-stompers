@@ -32,3 +32,7 @@ body {
     text-decoration: none;
     color: white;
 }
+
+.active a {
+    color: #E67E22;
+}
